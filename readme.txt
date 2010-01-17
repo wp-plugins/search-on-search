@@ -33,3 +33,7 @@ No, just the more common ones. Please let me know if your fav search engine is m
 = 1.0 =
 
 * First version.
+
+== Upgrade Notice ==
+
+* No updates yet
