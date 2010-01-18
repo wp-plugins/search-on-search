@@ -1,16 +1,16 @@
 === Search on search ===
 Contributors: cobpez
 Donate link: http://wikimediafoundation.org/wiki/Support_Wikipedia/en
-Tags: search, widget, search engines
+Tags: search, widget, search engines, bounce rate
 Requires at least: 2.8
 Tested up to: 2.9.1
 Stable tag: trunk
 
-A Widget that links to posts and pages matching search engine terms used to find the page.
+A widget that tries to improve the site Bounce rate by producing links to posts and pages matching search engine terms used to find the page.
 
 == Description ==
 
-A Widget that links to posts and pages matching search engine terms used to find the page. For instance if the page displayed is where the user landed after clicking a Google search result link the widget tries to inform about more reading on the site that might interest the user.
+A widget that tries to improve the site Bounce rate by producing links to posts and pages matching search engine terms used to find the page. For instance if the page displayed is where the user landed after clicking a Google search result link the widget tries to inform about more reading on the site that might interest the user.
 
 == Installation ==
 
